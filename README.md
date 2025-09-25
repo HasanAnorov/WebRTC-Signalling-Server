@@ -6,7 +6,7 @@ Welcome to the GitHub repository for creating a signaling server for a video con
 ## What You Will Learn
 1. **Signaling Server Implementation:** Create a signaling server with JavaScript and Node.js to manage video conference connections.
 2. **Video Conference Implementation:** Develop a feature-rich video conference application using WebRTC.
-   - **Android Source Repo:** [https://github.com/HasanAnorov/WebRTC-Signalling-Server](https://github.com/codewithkael/WebrtcConference)
+   - **Android Source Repo:** [https://github.com/HasanAnorov/KanoRAT](https://github.com/codewithkael/WebrtcConference)
 3. **Jetpack Compose Basics:** Learn the essentials of building UI components with Jetpack Compose.
 4. **WebRTC Integration:** Step-by-step guide to integrate WebRTC for real-time communication.
 5. **Security Best Practices:** Follow best practices to keep your conference data secure.
