@@ -1,4 +1,4 @@
-# Signaling Server for Video Conference with Jetpack Compose and WebRTC - From Scratch
+# Signaling Server for Video Conference with Jetpack Compose and WebRTC
 
 Welcome to the GitHub repository for creating a signaling server for a video conference application using JavaScript and Node.js. Jetpack Compose for the UI and WebRTC for real-time video communication. The signaling server will help facilitate seamless video conferencing by managing connections.
 
